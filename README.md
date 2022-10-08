@@ -11,6 +11,22 @@
 
 ***
 # 甘特圖
+```mermaid
+gantt
+    title 專題名稱
+    
+    section 任務細項
+    研擬計畫           :a1, 2022-10-03, 2d
+    任務分配           :a2,after a1  , 2d
+    取得硬體           :a3,after a1  , 7d
+    安裝硬體           :a4,after a3  , 5d
+    程式開發           :a5,after a4  , 30d
+    程式測試           :a6,after a5  , 15d
+    系統測試           :a7,after a5  , 15d
+    使用者訓練         :a8,after a7  , 10d
+    使用者測試         :after a8  , 14d
+
+```
 
 ***
 # PERT/CPM
