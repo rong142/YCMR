@@ -14,7 +14,7 @@
 # 甘特圖
 ```mermaid
 gantt
-    title Unity猜拳機器人
+    title 哥布林大戰
     
     section 任務細項
     研擬計畫           :a1, 2022-10-03, 2d
