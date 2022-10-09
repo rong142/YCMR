@@ -21,9 +21,9 @@ gantt
     任務分配           :a2,after a1  , 1d
     取得硬體           :a3,after a1  , 3d
     安裝硬體           :a4,after a3  , 3d
-    程式開發           :a5,after a4  , 14d
+    程式開發           :a5,after a2  , 14d
     程式測試           :a6,after a5  , 5d
-    系統測試           :a7,after a5  , 5d
+    系統測試           :a7,after a4  , 5d
     使用者訓練         :a8,after a7  , 3d
     使用者測試         :after a8  , 7d
 
