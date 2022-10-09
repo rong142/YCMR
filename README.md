@@ -31,5 +31,5 @@ gantt
 
 
 # PERT/CPM
-![PERT/CPM](PERT.JPG "PERT")
+![PERT/CPM](PERT1.JPG "PERT")
 
