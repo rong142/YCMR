@@ -32,6 +32,7 @@ gantt
 
 # PERT/CPM
 ![PERT/CPM](PERT1.JPG "PERT")
+關鍵路徑：１＞３＞４＞７＞８＞９
 
 # 功能性需求及非功能性需求
 功能性需求：
