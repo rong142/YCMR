@@ -71,3 +71,7 @@ gantt
 [https://www.figma.com/file/8A1Ra8tXm25GtxZKU8bxaS/%E5%93%A5%E5%B8%83%E6%9E%97%E5%A4%A7%E6%88%B0?node-id=0%3A1](https://www.figma.com/proto/8A1Ra8tXm25GtxZKU8bxaS/%E5%93%A5%E5%B8%83%E6%9E%97%E5%A4%A7%E6%88%B0?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4)
 
 
+# DFD
+![系統分析圖](DFD1.jpeg "DFD1")
+
+![圖0](DFD2.jpeg "DFD2")
