@@ -8,4 +8,4 @@
 ![UML](循序圖_case2.PNG "UML")
 
 ## 使用案例3
-![UML](循序圖_case3.PNG "UML")
+![UML](循序圖_case3.png "UML")
