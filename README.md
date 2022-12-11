@@ -19,12 +19,17 @@ gantt
     
     section 任務細項
     研擬計畫           :a1, 2022-10-03, 2d
+    section 任務分配
     任務分配           :a2,after a1  , 1d
+    section 硬體作業
     取得硬體           :a3,after a1  , 3d
     安裝硬體           :a4,after a3  , 3d
+    section 程式設計
     程式開發           :a5,after a2  , 14d
     程式測試           :a6,after a5  , 5d
+    section 系統設計
     系統測試           :a7,after a4  , 5d
+    section 使用者體驗
     使用者訓練         :a8,after a7  , 3d
     使用者測試         :after a8  , 7d
 
